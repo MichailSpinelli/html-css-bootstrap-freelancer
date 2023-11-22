@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+    
+}
+
+.col-8{
+    background-color: green;
+    
+}
+
+.col-4{
+    background-color: rebeccapurple;
+}
+
+.start-bootstrap{
+    background-color: blue;
+}
+
+.col-4{
+    background-color: orange;
+}
+.card{
+    background-color: aqua;
+    min-width: 100%;
+    height: 200px;
+}
+
+.col-6{
+    background-color: darkslategrey;
+}
