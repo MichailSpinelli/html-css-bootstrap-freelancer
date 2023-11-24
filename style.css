@@ -4,3 +4,15 @@
     box-sizing: border-box
     
 }
+
+h1{
+    color: white;
+}
+
+.footer-top{
+    background-color: #3A546D;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
+}
